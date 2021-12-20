@@ -1,0 +1,9 @@
+.mini {
+  font-size: 50%;
+}
+
+.list {
+ width: 200px;
+ color: red;
+ float: left;
+}
